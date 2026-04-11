@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="assets/decisionnode-banner.gif" alt="DecisionNode Demo" width="800" />
+  <img src="assets/banner-decisionnode.gif" alt="DecisionNode Demo" width="800" />
 </p>
 
 <div align="center">
