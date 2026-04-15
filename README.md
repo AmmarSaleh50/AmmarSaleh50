@@ -15,7 +15,7 @@ CS student @ University of Wuppertal · AI Engineer · Open Source
 
 ---
 
-I build AI-powered tools — tool calling, context management, MCPs, vector embeddings, RAG pipelines. Currently studying Computer Science (2nd year of 3) and working part-time as a Hilfskraft at the same university.
+I build AI-powered tools — tool calling, context management, MCPs, vector embeddings, RAG pipelines. Currently studying Computer Science (2nd year of 3) and working part-time as a HiWi at the same university.
 
 #### What I'm building
 
