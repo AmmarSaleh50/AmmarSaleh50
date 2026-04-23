@@ -19,12 +19,12 @@ I build AI tools — MCP servers, tool calling, context management, vector embed
 #### ⭐ Featured
 
 <p align="center">
-  <a href="https://github.com/decisionnode/DecisionNode">
-    <img alt="DecisionNode" src="https://github-readme-stats.vercel.app/api/pin/?username=decisionnode&repo=DecisionNode&theme=tokyonight&show_owner=true&border_color=30365F" />
+  <a href="https://github.com/openstudy-dev/OpenStudy">
+    <img alt="OpenStudy" src="https://github-readme-stats.vercel.app/api/pin/?username=openstudy-dev&repo=OpenStudy&theme=tokyonight&show_owner=true&border_color=30365F" />
   </a>
   &nbsp;
-  <a href="https://github.com/AmmarSaleh50/study-dashboard">
-    <img alt="study-dashboard" src="https://github-readme-stats.vercel.app/api/pin/?username=AmmarSaleh50&repo=study-dashboard&theme=tokyonight&show_owner=true&border_color=30365F" />
+  <a href="https://github.com/decisionnode/DecisionNode">
+    <img alt="DecisionNode" src="https://github-readme-stats.vercel.app/api/pin/?username=decisionnode&repo=DecisionNode&theme=tokyonight&show_owner=true&border_color=30365F" />
   </a>
 </p>
 
