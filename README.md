@@ -14,7 +14,7 @@ CS undergrad · AI Engineer · Open Source
 
 ---
 
-I build AI tools — MCP servers, tool calling, context management, vector embeddings, RAG pipelines, agentic loops. Most of my recent work lives on top of the Model Context Protocol.
+I build AI tools - MCP servers, tool calling, context management, vector embeddings, RAG pipelines, agentic loops. Most of my recent work lives on top of the Model Context Protocol.
 
 #### ⭐ Featured
 
