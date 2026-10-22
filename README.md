@@ -32,17 +32,13 @@ I build AI tools - MCP servers, tool calling, context management, vector embeddi
 
 #### Other projects
 
-**KI-Assistenten-Studio** `work`
-Full-stack platform for creating AI assistants with custom knowledge bases. Agentic tool-calling loop, 8+ MCP servers (arXiv, PubMed, Wikipedia, Google Drive, and more), built-in tools (tables, Word/PDF/Excel generation, Mermaid diagrams, image/video generation), RAG with pgvector, streaming SSE, multi-provider LLM support (OpenAI, Anthropic, Gemini, OpenRouter), context compaction, MFA, encrypted key storage.
+**[Hive](https://github.com/AmmarSaleh50/hive)** `open source`
+A live board for every Claude Code session on my machine: what each one is doing, what it needs from me, and everything it said, without the tool calls. Claude Haiku turns each session's messages into steps, progress and a short briefing. Zero dependencies, works as a phone app over Tailscale.
+`Node.js` `Claude Code` `Claude Haiku` `Tailscale`
+
+**[KI-Agenten-Studio](https://ki-agenten-studio.uni-wuppertal.de/)** `work`
+Full-stack platform for creating AI agents with custom knowledge bases. Agentic tool-calling loop, 8+ MCP servers (arXiv, PubMed, Wikipedia, Google Drive, and more), built-in tools (tables, Word/PDF/Excel generation, Mermaid diagrams, image/video generation), RAG with pgvector, streaming SSE, multi-provider LLM support (OpenAI, Anthropic, Gemini, OpenRouter), context compaction, MFA, encrypted key storage.
 `Python` `FastAPI` `React` `PostgreSQL` `pgvector`
-
-**GymTrackerApp** `coming soon`
-Mobile gym tracker with AI capabilities. Local SQLite with sync to Supabase. Exercise logging, progress analytics, AI-powered recommendations. Publishing soon.
-`React Native` `Expo` `TypeScript` `SQLite` `Supabase`
-
-**[Aseelfemme](https://github.com/AmmarSaleh50/Aseelfemme)** `side project` · [live](https://aseelfemme.com)
-Marketing site + admin panel I built for my sister's handcrafted soap brand. Multilingual (EN/AR/DE), Supabase backend with storage and auth.
-`React` `Vite` `Supabase` `i18n` `TailwindCSS`
 
 **SaPe Plattform** `team project · grade 1.0`
 Full-stack internal event management system — course management, registrations, attendance, certificate generation, statistics. Team of 10; I built most of the frontend and backend. Scored 1.0 (highest possible).
