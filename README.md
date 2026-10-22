@@ -33,7 +33,7 @@ I build AI tools - MCP servers, tool calling, context management, vector embeddi
 #### Other projects
 
 **[Hive](https://github.com/AmmarSaleh50/hive)** `open source`
-A live board for every Claude Code session on my machine: what each one is doing, what it needs from me, and everything it said, without the tool calls. Claude Haiku turns each session's messages into steps, progress and a short briefing. Zero dependencies, works as a phone app over Tailscale.
+A live board for every Claude Code session on my machine: where each one stands and what it needs from me, at a glance. Claude Haiku turns each session's messages into steps, progress and a short briefing. Zero dependencies, works as a phone app over Tailscale.
 `Node.js` `Claude Code` `Claude Haiku` `Tailscale`
 
 **[KI-Agenten-Studio](https://ki-agenten-studio.uni-wuppertal.de/)** `work`
